@@ -2,7 +2,7 @@
 
 
 <div align="center"> 
-  <img src="https://raw.githubusercontent.com/programmerabi/programmerabi/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sajjadhossain0/sajjadhossain0/output/snake.svg" alt="Snake animation" />
   <br/><br/><br/>
 </div>
 
